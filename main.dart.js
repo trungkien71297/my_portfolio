@@ -70579,7 +70579,7 @@ A.Sa.prototype={}
 A.Fr.prototype={
 J(a){return A.alr(new A.ZV(),$.RL().a,t.jm)}}
 A.ZV.prototype={
-$3(a,b,c){return new A.mM("/home",new A.ZU(),"Peemoti",A.agc(null,B.zu,"Kanit",B.hb,!0),A.agc(null,B.zv,"Kanit",B.c9,!0),b,null)},
+$3(a,b,c){return new A.mM("/",new A.ZU(),"Peemoti",A.agc(null,B.zu,"Kanit",B.hb,!0),A.agc(null,B.zv,"Kanit",B.c9,!0),b,null)},
 $S:438}
 A.ZU.prototype={
 $1(a){var s=t.Ni,r=new A.dD(new A.ew(B.aK),new A.ah(B.qK,B.h,s),s.h("dD<aj.T>"))
